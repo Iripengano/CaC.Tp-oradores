@@ -1,0 +1,76 @@
+#logo{ width: 30%
+}
+#barranav{background-color: rgb(49, 42, 42);
+font-size: small;
+}
+#portada{ border-radius: 0%;
+    border: 0cm;
+    position: relative;
+
+}
+#fotoba{filter: brightness(50%);
+
+}
+#texto{ width:40%;
+    height:30%;
+    position: absolute;
+    bottom: 30%;
+    right: 10%;
+    text-align: right;
+    }
+
+    button#comprartickets{background-color:rgba(41,167, 68, 255);
+        color: rgb(255, 255, 255);
+        border:0cm;
+
+    }    
+
+
+#titulo{text-align: center;
+  
+
+}
+h6{ font-size: smaller;
+    padding-top: 1.5%;
+}
+#honolulu{ width:100%;
+    padding-top: 2%;
+    border: 0px;
+    border-radius: 0%;
+}
+.card-mb-3{border-radius: 0%;
+
+}
+div#cuadrotextohonolulu{
+    background-color:rgba(53,58,64,255);
+    color:white;
+    font-size:small;
+    text-align:left;
+}
+
+div#formulario{ width: 60%;
+    height: 20%;
+    }
+    .form-label{margin:0.3%;
+    }
+    button#enviar{
+        background-color:rgba(150, 201, 62, 255);
+        color:white;
+        border: 0cm;
+        margin-bottom: 3%;
+    }
+footer{
+    background-image:linear-gradient(to right, #1c3643, #1e5372);
+    padding: 3%;
+
+    }
+    a{color: white;
+        text-decoration: none;
+        text-align: center;
+    }
+    @media screen and(max-with:480px) {#texto{
+        width:100%;
+        height:50%;
+    font-size: xx-small;}
+        
+    }
